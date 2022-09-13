@@ -9,8 +9,9 @@ return len(string) % 2 == 0
 
 def remove_third_char(string: str) -> str:
     pass
-
-
+return string[:2] + string[3:]
+'----' \
+print(chaine.replace[2]
 def replace_char(string: str, old_char: str, new_char: str) -> str:
     pass
 
